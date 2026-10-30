@@ -35,3 +35,93 @@ barplot(1:5, col = tlapalli_pal("Ambar", n = 5))
 
 image(volcano, col = tlapalli_pal("Jade", n = 100, type = "continuous"))  
 ```
+
+# Palettes
+
+<p align="center">
+  <img src="ImageExamples/Altata.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="ImageExamples/AltataSoft.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="ImageExamples/Inspiration/altata.png" height="300">
+</p>
+
+<p align="center">
+  <sub>Photo: Miguel Angel Victoria / Sinaloa 360</sub>
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/Ambar.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="ImageExamples/Inspiration/ambar.png" height="300">
+</p>
+
+<p align="center">
+  <sub>Photo: <a href="https://mr.travelbymexico.com/5062-museo-del-ambar/">Travel By México / México Real</a></sub>
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/Atlas.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="ImageExamples/Inspiration/atlas.png" height="300">
+</p>
+
+<p align="center">
+  <sub>Source: SEP, <a href="https://historico.conaliteg.gob.mx/H1993P4GE197.htm"><i>Atlas de México</i>, 4.º grado (Conaliteg, 1993)</a></sub>
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/CartaBlanca.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="ImageExamples/Inspiration/cartablanca.png" height="300">
+</p>
+
+<p align="center">
+  <sub>Source: <a href="https://www.cartablanca.com.mx/agegate/?redirect=%2F"><i>Cervecería Carta Blanca</i></a></sub>
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/CartaBlanca.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="ImageExamples/Inspiration/cartablanca.png" height="300">
+</p>
+
+<p align="center">
+  <sub>Source: <a href="https://www.cartablanca.com.mx/agegate/?redirect=%2F"><i>Cervecería Carta Blanca</i></a></sub>
+</p>

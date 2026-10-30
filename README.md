@@ -115,13 +115,155 @@ image(volcano, col = tlapalli_pal("Jade", n = 100, type = "continuous"))
 <br>
 
 <p align="center">
-  <img src="ImageExamples/CartaBlanca.png" width="100%">
+  <img src="ImageExamples/AltataSoft.png" width="100%">
 </p>
 
-<p align="center">
-  <img src="ImageExamples/Inspiration/cartablanca.png" height="300">
-</p>
+<br>
+
+-----
+
+<br>
 
 <p align="center">
-  <sub>Source: <a href="https://www.cartablanca.com.mx/agegate/?redirect=%2F"><i>Cervecería Carta Blanca</i></a></sub>
+  <img src="ImageExamples/Conchas.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/DiaDeMuertos.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/DiaDeMuertosSoft.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/Indio.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/Jade.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/LosTemerarios.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/MariaElote.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/Mascara.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/Obsidiana.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/Pacifico.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/PacificoLight.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/PacificoSuave.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/Tecate.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/Venado8.png" width="100%">
+</p>
+
+<br>
+
+-----
+
+<br>
+
+<p align="center">
+  <img src="ImageExamples/Venado8Soft.png" width="100%">
 </p>

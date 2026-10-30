@@ -1,0 +1,7 @@
+^LICENSE\.md$
+^tlapalli\.Rproj$
+^\.Rproj\.user$
+^generate_examples\.R$
+^README\.Rmd$
+^\.DS_Store$
+^\.github$

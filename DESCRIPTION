@@ -1,0 +1,16 @@
+Package: tlapalli
+Title: Color Palettes Inspired by Mexican Culture
+Version: 0.0.0.9000
+Authors@R:
+    person("Maria A.", "Torres-Meraz", , "ma.torresmeraz@gmail.com", role = c("aut", "cre"))
+Description: Color palettes inspired by the colors of Mexico's culture. All
+    palettes are distinguishable for people with color vision deficiencies.
+License: AGPL3
+Config/roxygen2/version: 8.1.1
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports:
+    ggplot2
+Suggests:
+    colorspace,
+    patchwork

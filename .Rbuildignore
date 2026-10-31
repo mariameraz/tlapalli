@@ -5,3 +5,5 @@
 ^README\.Rmd$
 ^\.DS_Store$
 ^\.github$
+^Logo$
+^ImageExamples$

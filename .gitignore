@@ -1,8 +1,13 @@
 tlapalli.Rproj
 .Rproj.user
-generate_examples.R
 .Rhistory
 .RData
 .httr-oauth
 .DS_Store
 .quarto
+
+# Logo draft
+Logo/logo.svg
+
+# R scripts
+generate_examples.R

@@ -1,18 +1,11 @@
 <h1 align="center">Tlapalli</h1>
 <p align="center"><em>In tlilli, in tlapalli</em></p>
 
-<table>
-  <tr>
-    <td width="66%" valign="middle">
+<img src="Logo/Rtlapalli.png" align="right" width="250" alt="Tlapalli logo">
 
 Blind safe color palettes for R. Each palette is inspired by elements of Mexican and Mesoamerican culture. This is a small personal project, so for now it is only available to install from GitHub. The package currently has 32 palettes, but we'll be adding more over time. Suggestions are welcome and appreciated!
 
-</td>
-    <td width="33%" align="center" valign="middle">
-      <img src="Logo/Rtlapalli.png" alt="Tlapalli logo" width="250">
-    </td>
-  </tr>
-</table>
+<br clear="right">
 
 
 ## Installation

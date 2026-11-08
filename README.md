@@ -44,11 +44,15 @@ Basic example of how to use our color palettes:
 library(tlapalli)
 library(ggplot2)
 
+# Print palette names
+names(tlapalli)
+
 # Get the colors of a palette
 tlapalli_pal("Ambar")
 
 # Interpolate colors to get a palette with 10 colors
 tlapalli_pal("Ambar", n = 10, type = "continuous")
+
 ```
 
 

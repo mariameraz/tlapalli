@@ -2,12 +2,12 @@
 # CITATION.cff file created with {cffr} R package
 # See also: https://docs.ropensci.org/cffr/
 # ------------------------------------------------
- 
+
 cff-version: 1.2.0
 message: 'To cite package "tlapalli" in publications use:'
 type: software
 license: AGPL-3.0-only
-title: 'tlapalli: Color Palettes Inspired by Mexican Culture'
+title: 'Tlapalli: Color Palettes Inspired by Mexican Culture'
 version: 0.0.0.9000
 abstract: Color palettes inspired by the colors of the culture of Mexico and Mesoamerica.
   All palettes are distinguishable for people with color vision deficiencies.
@@ -113,4 +113,3 @@ references:
     orcid: https://orcid.org/0000-0002-5147-4711
   year: '2026'
   doi: 10.32614/CRAN.package.patchwork
-

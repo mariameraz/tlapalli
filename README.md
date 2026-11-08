@@ -44,7 +44,7 @@ Basic example of how to use our color palettes:
 library(tlapalli)
 library(ggplot2)
 
-# Print palette names
+# List available palettes
 names(tlapalli)
 
 # Get the colors of a palette

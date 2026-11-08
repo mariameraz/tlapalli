@@ -8,7 +8,7 @@ message: 'To cite package "tlapalli" in publications use:'
 type: software
 license: AGPL-3.0-only
 title: 'Tlapalli: Color Palettes Inspired by Mexican Culture'
-version: 0.0.0.9000
+version: 0.0.1
 abstract: Color palettes inspired by the colors of the culture of Mexico and Mesoamerica.
   All palettes are distinguishable for people with color vision deficiencies.
 authors:

@@ -10,7 +10,7 @@ Disponible en: [![Spanish](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-pink
 
 <p align="justify">
 <br>
-R color palettes inspired by elements of Mexican and Mesoamerican culture. This is a small personal project, so for now it is only available to install from GitHub. The package currently has 27 palettes, available as both discrete and continuous scales, and I hope be adding more over time. Suggestions are welcome and appreciated (҂◡_◡) ᕤ !
+R color palettes inspired by elements of Mexican and Mesoamerican culture. All palettes were designed with different ways of perceiving color in mind. This is a small personal project, so for now it is only available to install from GitHub. The package currently has 27 palettes, available as both discrete and continuous scales, and I hope be adding more over time. Suggestions are welcome and appreciated (҂◡_◡) ᕤ !
 </p>
 
 <br clear="left">

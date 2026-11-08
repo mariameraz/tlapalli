@@ -10,7 +10,7 @@ Available in: [![English](https://img.shields.io/badge/Language-English-purple)]
 
 <p align="justify">
 <br>
-Paletas de colores para R inspiradas en elementos de la cultura mexicana y mesoamericana. Este es un proyecto personal y pequeño, por lo que por ahora solo se puede instalar desde GitHub. El paquete cuenta actualmente con 27 paletas, disponibles tanto en escalas discretas como continuas, y espero seguir añadiendo más en un futuro. ¡Se agradece cualquier sugerencia (҂◡_◡) ᕤ !
+Paletas de colores para R inspiradas en elementos de la cultura mexicana y mesoamericana. Todas fueron creadas considerando distintas formas de percibir el color. Es un pequeño proyecto personal, así que por ahora solo se puede instalar desde GitHub. Actualmente incluye 27 paletas, disponibles tanto en escalas discretas como continuas, y espero seguir añadiendo más. ¡Cualquier sugerencia es bienvenida (҂◡_◡) ᕤ !
 </p>
 
 <br clear="left">

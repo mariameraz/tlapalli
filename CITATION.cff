@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "tlapalli: Color Palettes Inspired by Mexican and Mesoamerican Culture"
+type: software
+authors:
+  - family-names: "Torres-Meraz"
+    given-names: "Maria A."
+repository-code: "https://github.com/mariameraz/tlapalli"
+url: "https://mariameraz.github.io/tlapalli/"
+license: AGPL-3.0-only
+version: 0.0.0.9000
+date-released: "2026-11-08"

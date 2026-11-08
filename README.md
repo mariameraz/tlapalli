@@ -1,273 +1,94 @@
-<h1 align="center">Tlapalli</h1>
-<p align="center"><em>In tlilli, in tlapalli</em></p>
+<h1 align="center"><strong>&#123; Tlapalli &#125;</strong></h1>
 
-<img src="Logo/Rtlapalli.png" align="right" width="250" alt="Tlapalli logo">
+<p align="center"><em>In tlilli, in tlapalli</em> </p>
 
-Blind safe color palettes for R. Each palette is inspired by elements of Mexican and Mesoamerican culture. This is a small personal project, so for now it is only available to install from GitHub. The package currently has 32 palettes, but we'll be adding more over time. Suggestions are welcome and appreciated!
+<img src="Logo/Rtlapalli.png" align="left" width="200" hspace="30" alt="Tlapalli logo">
 
-<br clear="right">
+<p align="justify">
+<br><br>
+R color palettes inspired by elements of Mexican and Mesoamerican culture. This is a small personal project, so for now it is only available to install from GitHub. The package currently has 27 palettes, available as both discrete and continuous scales, and I hope be adding more over time. Suggestions are welcome and appreciated (҂◡_◡) ᕤ!
+</p>
 
+<br clear="left">
 
 ## Installation
 
-You can install the development version of tlapalli like so:
-
 ``` r
-# Install package from GitHub
 install.packages(c("remotes"))
 remotes::install_github("mariameraz/tlapalli")
 ```
 
+# Palettes
+
+## ☆ Continuous
+
+<p align="center">
+  <img src="ImageExamples/continuous.png" width="80%">
+</p>
+
+## ☆ Discrete
+
+<p align="center">
+  <img src="ImageExamples/categorical.png" width="80%">
+</p>
+
 ## Example
 
-Basic example of how to use the color palettes:
+Basic example of how to use our color palettes:
 
-``` r
+```r
 library(tlapalli)
 library(ggplot2)
 
 # Get the colors of a palette
-ambar_pal <- tlapalli_pal("Ambar")
+tlapalli_pal("Ambar")
 
-# Or use it in a plot
-
-ggplot(faithfuld, aes(waiting, eruptions, fill = density)) +
-  geom_raster() +
-  scale_fill_tlapalli_c("Ambar")
-  
-barplot(1:5, col = tlapalli_pal("Ambar", n = 5))
-
-image(volcano, col = tlapalli_pal("Jade", n = 100, type = "continuous"))  
+# Interpolate colors to get a palette with 10 colors
+tlapalli_pal("Ambar", n = 10, type = "continuous")
 ```
 
-# Palettes
 
-<p align="center">
-  <img src="ImageExamples/Altata.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="ImageExamples/AltataSoft.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="ImageExamples/Inspiration/altata.png" height="300">
-</p>
-
-<p align="center">
-  <sub>Photo: Miguel Angel Victoria / Sinaloa 360</sub>
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/Ambar.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="ImageExamples/Inspiration/ambar.png" height="300">
-</p>
-
-<p align="center">
-  <sub>Photo: <a href="https://mr.travelbymexico.com/5062-museo-del-ambar/">Travel By México / México Real</a></sub>
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/Atlas.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="ImageExamples/Inspiration/atlas.png" height="300">
-</p>
-
-<p align="center">
-  <sub>Source: SEP, <a href="https://historico.conaliteg.gob.mx/H1993P4GE197.htm"><i>Atlas de México</i>, 4.º grado (Conaliteg, 1993)</a></sub>
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/CartaBlanca.png" width="100%">
-</p>
-
-<p align="center">
-  <img src="ImageExamples/Inspiration/cartablanca.png" height="300">
-</p>
-
-<p align="center">
-  <sub>Source: <a href="https://www.cartablanca.com.mx/agegate/?redirect=%2F"><i>Cervecería Carta Blanca</i></a></sub>
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/AltataSoft.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/Conchas.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/DiaDeMuertos.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/DiaDeMuertosSoft.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/Indio.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/Jade.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/LosTemerarios.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/MariaElote.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/Mascara.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/Obsidiana.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/Pacifico.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/PacificoLight.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/PacificoSuave.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/Tecate.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/Venado8.png" width="100%">
-</p>
-
-<br>
-
------
-
-<br>
-
-<p align="center">
-  <img src="ImageExamples/Venado8Soft.png" width="100%">
-</p>
+```r
+# Continuous scale in ggplot2
+ggplot(faithfuld, aes(waiting, eruptions, fill = density)) +
+   geom_tile() +
+   scale_fill_tlapalli_c("Atlas2") +
+   theme_minimal()
+```
+
+<img src="ImageExamples/example1.png" align="center" width="400" hspace="30" alt="Tlapalli logo">
+
+
+```r
+# Discrete scale in ggplot2
+ggplot(mpg, aes(class, fill = class)) +
+  geom_bar() +
+  scale_fill_tlapalli_d("Quetzal") +
+  theme_bw()
+```
+<img src="ImageExamples/example2.png" align="center" width="400" hspace="30" alt="Tlapalli logo">
+
+```r
+# Discrete palette in base R
+barplot(1:6, col = tlapalli_pal("PacificoSuave"))
+```
+<img src="ImageExamples/example3.png" align="center" width="400" hspace="30" alt="Tlapalli logo">
+
+```r
+# Continuous palette in base R
+image(volcano, col = tlapalli_pal("Ambar", n = 100, type = "continuous"))
+```
+<img src="ImageExamples/example4.png" align="center" width="400" hspace="30" alt="Tlapalli logo">
+
+
+```r
+# Show color palettes
+tlapalli_show("Venado8", background = "black")
+```
+<img src="ImageExamples/example5.png" align="center" width="400" hspace="30" alt="Tlapalli logo">
+
+```r
+tlapalli_show("Altata", n = 100, type = "continuous", background = "both")
+```
+
+<img src="ImageExamples/example6.png" align="center" width="400" hspace="30" alt="Tlapalli logo">

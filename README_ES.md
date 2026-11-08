@@ -2,14 +2,14 @@
 
 <p align="center"><em>In tlilli, in tlapalli</em> </p>
 
-Available in: [![English](https://img.shields.io/badge/Language-English-pink)](https://github.com/mariameraz/tlapalli/blob/main/README.md)
+Available in: [![English](https://img.shields.io/badge/Language-English-purple)](https://github.com/mariameraz/tlapalli/blob/main/README.md)
 
 <br>
 
 <img src="Logo/Rtlapalli.png" align="left" width="200" hspace="30" alt="Logo de Tlapalli">
 
 <p align="justify">
-<br><br>
+<br>
 Paletas de colores para R inspiradas en elementos de la cultura mexicana y mesoamericana. Este es un proyecto personal y pequeño, por lo que por ahora solo se puede instalar desde GitHub. El paquete cuenta actualmente con 27 paletas, disponibles tanto en escalas discretas como continuas, y espero seguir añadiendo más en un futuro. ¡Se agradece cualquier sugerencia (҂◡_◡) ᕤ !
 </p>
 

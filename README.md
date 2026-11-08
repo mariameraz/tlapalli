@@ -9,7 +9,7 @@ Disponible en: [![Spanish](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-pink
 <img src="Logo/Rtlapalli.png" align="left" width="200" hspace="30" alt="Tlapalli logo">
 
 <p align="justify">
-<br><br>
+<br>
 R color palettes inspired by elements of Mexican and Mesoamerican culture. This is a small personal project, so for now it is only available to install from GitHub. The package currently has 27 palettes, available as both discrete and continuous scales, and I hope be adding more over time. Suggestions are welcome and appreciated (҂◡_◡) ᕤ !
 </p>
 

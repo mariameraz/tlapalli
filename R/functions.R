@@ -157,8 +157,9 @@ tlapalli_show <- function(name, n = NULL, type = c("discrete", "continuous"),
     versions[["Deuteranopia"]] <- colorspace::deutan(cols)
     versions[["Protanopia"]] <- colorspace::protan(cols)
     versions[["Tritanopia"]] <- colorspace::tritan(cols)
-    versions[["Monocrom\u00e1tica"]] <- colorspace::desaturate(cols)
+    versions[["Grayscale"]] <- colorspace::desaturate(cols)
   }
+
   nr <- length(versions)
 
   panels <- switch(background,

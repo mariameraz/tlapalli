@@ -4,13 +4,24 @@
 \alias{scale_colour_tlapalli_d}
 \title{Discrete colour scale}
 \usage{
-scale_colour_tlapalli_d(name, ...)
+scale_colour_tlapalli_d(name, direction = 1, ...)
 }
 \arguments{
 \item{name}{Name of the palette.}
+
+\item{direction}{Direction of the palette. \code{1} (default) uses the original
+order; \code{-1} reverses it.}
 
 \item{...}{Other arguments passed to \code{\link[ggplot2:scale_fill_gradientn]{ggplot2::scale_fill_gradientn()}}.}
 }
 \description{
 Discrete colour scale
+}
+\examples{
+library(ggplot2)
+
+ggplot(mpg, aes(displ, hwy, colour = class)) +
+  geom_point() +
+  scale_colour_tlapalli_d("Ofrenda")
+
 }

@@ -4,13 +4,24 @@
 \alias{scale_fill_tlapalli_c}
 \title{Continuous fill scale}
 \usage{
-scale_fill_tlapalli_c(name, ...)
+scale_fill_tlapalli_c(name, direction = 1, ...)
 }
 \arguments{
 \item{name}{Name of the palette.}
+
+\item{direction}{Direction of the palette. \code{1} (default) uses the original
+order; \code{-1} reverses it.}
 
 \item{...}{Other arguments passed to \code{\link[ggplot2:scale_fill_gradientn]{ggplot2::scale_fill_gradientn()}}.}
 }
 \description{
 Continuous fill scale
+}
+\examples{
+library(ggplot2)
+
+ggplot(faithfuld, aes(waiting, eruptions, fill = density)) +
+  geom_tile() +
+  scale_fill_tlapalli_c("Atlas2")
+
 }

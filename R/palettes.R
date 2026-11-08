@@ -1,54 +1,42 @@
-# Palettes
-#' tlapalli color palettes
+#' Tlapalli color palettes
 #'
-#' List of palette names and their hex color.
+#' A named list of color palettes inspired by Mexican and Mesoamerican
+#' culture. Each element is a character vector of hex colors.
 #'
 #' @format A named list with one element per palette.
+#' @examples
+#' names(tlapalli)
+#' tlapalli$Ambar
 #' @export
-
 tlapalli <- list(
-  # Continuous
-  Altata = c("#045e7e", "#5aabf2", "#f7f0c1", "#ff9565", "#914410"),
-  AltataSoft = c("#335C73","#7AA9DC","#F5F0CF","#EC9D80","#854B32"),
-  DiaDeMuertos = c("#78761f","#e1a235","#f7f0c1", "#bb3195", "#331d69"),
-  DiaDeMuertosSoft = c("#777543", "#d5a569", "#f5f0cf", "#a64b89", "#312456"),
-  Venado8 = c("#b80601", "#f0a30e","#6698a9","#862762","#000830"),
-  Venado8Soft = c("#da6363", "#fabd7c", "#96b6c2", "#a96c8d", "#4b4c55"),
-  LosTemerarios = c("#fd3c0e", "#fb9505", "#fde006",  "#ffffff", "#68b7d3","#8187d8", "#082577"),
-  LosTemerariosSoft = c("#ff867d", "#ffb581", "#ffe987", "#ffffff", "#8dcee7", "#a4a9f2", "#5a629b"),
-  Atlas = c("#243a4f", "#385f99", "#4f89be", "#e1c2b1", "#b55866", "#5c4d5a", "#000000"),
-  AtlasSoft = c("#4c5d71", "#5c7db6", "#6ba0d6", "#eccdbc", "#d17380", "#7b6d7a", "#303030"),
-  Maria = c("#fcf299", "#b7cc89","#3c7421","#361b12" ),
-  MariaSoft = c("#fff59c", "#c3d895", "#5b9147", "#5a433d"),
+  # Diverging
+  Altata = c("#4327bb","#6fb0f0", "#ebe4b5", "#b76002", "#410000"),
+  DiaDeMuertos = c("#5f3121", "#ab900e", "#f2f1e7", "#e06aa0", "#482296"),
+  LosTemerarios = c("#78120d", "#ad8e0b", "#f2f1e7", "#0e9dc5", "#213289"),
+  Atlas = c("#002841", "#2d5b99", "#7897bf", "#e0d2c6", "#d17d87", "#804d42", "#302408"),
 
-  # Continuous: Monochromatic
-  Tecate = c("#202020", "#820000", "#ff0001", "#dadada" ),
-  TecateSoft = c("#333333", "#873333", "#f45353", "#dedede"),
-  LosTemerarios2 = c("#0f1d39", "#155483", "#7fa0aa", "#e3edfb"),
-  LosTemerarios2Soft = c("#444a54", "#3a69ab", "#93b3bd", "#e7f1ff"),
-  Jade = c("#000903", "#012a12","#105228","#1d6f30", "#328b4d", "#359768","#a9d4c6" ),
-  Obsidiana = c("#0c0e1c", "#4c496b", "#855b74","#b1897c", "#deccc5"),
-  Ambar = c("#292904", "#621900", "#943200","#cb4c23", "#f0ac0c", "#f7f0c1"),
-  # Continuous: Three colors
-  Indio = c("#911973","#F7B231", "#5F750B"),
-  CartaBlanca = c("#A30031", "#CFD7C3", "#DFC04E" ),
+  # Sequential
+  Duvalin = c("#442315", "#945912", "#f286ae", "#f3eafe"),
+  Tecate = c("#2b1d1d", "#981b1b", "#ff2200", "#ff9d7a", "#e6e6e6"),
+  LosTemerarios2 = c("#0F1D39", "#295E8D", "#85A6B0", "#E3EDFB"),
+  Alicante = c("#032d29", "#355b1e", "#3d930a", "#b9b837", "#f9e8ab"),
+  Jade = c("#312b1b", "#435d18", "#0f9557", "#1ac6c1", "#b0f1ef"),
+  Obsidiana = c("#1F1E2E", "#494666", "#966B85", "#CAA091", "#F1D9D0"),
+  Ambar = c("#06291f", "#7d3a26", "#c95d39", "#ccad46", "#dce9dd"),
+  Cempasuchil = c("#4a063a", "#820a80", "#a55376", "#cd8364", "#e5ba5b", "#f8ebc3"),
+  Mazatlan = c("#1a1060", "#006BA7", "#F48C5D", "#FFEADF"),
+  Atlas2 = c("#142d45", "#3145a1", "#4677a6", "#d4819f", "#feb18c", "#fee9e5"),
 
-  # Categories: 6 colors
-  Pacifico = c("#A60000", "#098068","#009fd2","#f5c429","#F27D00", "#DBB695"),
-  PacificoLight = c("#053774","#474d2d", "#0B79B8", "#FF4F5F", "#9E9E9B","#e9cf12"),
-  PacificoSuave = c("#1e3b54", "#59668C","#D6565F", "#35B097", "#F7B145", "#ded8b3"),
-
-  # Categories: 4 colors
-  Conchas = c("#80452e","#DE7C84", "#ecc653", "#E8E0B0"),
-
-  # Categories: 3 colors
-  Mascara = c("#853a28", "#038b7b","#f79b2d")
+  # Categorical
+  CartaBlanca = c("#68001b", "#8c7500", "#b8ccad"),
+  PacificoClara = c("#920606", "#0b6e59", "#c06313", "#20a4d6", "#e0ac77", "#ffce4b"),
+  PacificoLight = c("#1f4584", "#c72626", "#3f90d0", "#afafac", "#efd52d"),
+  PacificoSuave = c("#304961", "#b1313c", "#088c76", "#8c98be", "#eea938", "#dbd5b0"),
+  Conchas = c("#534603", "#cd3b6b", "#c29f10", "#ddd5a5"),
+  Venado8 = c("#303768", "#b52422", "#398ea5", "#e19f19", "#d5d7b3"),
+  Coqueta = c("#5a1900", "#8b3807", "#c94d4b", "#bf9743", "#90d77e"),
+  Quetzal = c("#052d55", "#86060a", "#107394", "#c26a15", "#23c4a8", "#aed823", "#dbd5b0"),
+  Ofrenda = c("#293322", "#00498b", "#7d5c3b", "#b86a23", "#b08eb6", "#ddaba2", "#ecd545"),
+  Cosecha = c("#261d73", "#713c17", "#5b7057", "#678adb", "#e3a358", "#f5cbc8"),
+  Valle = c("#390914", "#622507", "#9b2b56", "#6b6adb", "#6fa84c", "#cab4ef", "#e0d2c6")
 )
-
-#' Names of the categorical palettes
-#'
-#' Categorical palettes should be used as discrete colors, not interpolated.
-#'
-#' @export
-tlapalli_categorical <- c("Pacifico", "PacificoLight", "PacificoSuave",
-                          "Conchas", "Mascara")

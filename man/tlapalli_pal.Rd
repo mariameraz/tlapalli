@@ -4,15 +4,19 @@
 \alias{tlapalli_pal}
 \title{Get colors from a palette}
 \usage{
-tlapalli_pal(name, n = NULL, type = c("discrete", "continuous"))
+tlapalli_pal(name, n = NULL, type = c("discrete", "continuous"), direction = 1)
 }
 \arguments{
 \item{name}{Name of the palette (see \code{names(tlapalli)}).}
 
-\item{n}{Number of colors. If \code{NULL}, returns all the original colors.}
+\item{n}{Number of colors to return. If \code{NULL} (default), returns all
+original colors in the palette.}
 
 \item{type}{\code{"discrete"} takes the first \code{n} colors; \code{"continuous"}
 interpolates between them to create \code{n} colors.}
+
+\item{direction}{Direction of the palette. \code{1} (default) uses the original
+order; \code{-1} reverses it.}
 }
 \value{
 A character vector of hex colors.
@@ -23,4 +27,5 @@ Get colors from a palette
 \examples{
 tlapalli_pal("Ambar")
 tlapalli_pal("Ambar", n = 20, type = "continuous")
+tlapalli_pal("Ambar", direction = -1)
 }

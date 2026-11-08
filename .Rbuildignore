@@ -6,4 +6,10 @@
 ^\.DS_Store$
 ^\.github$
 ^Logo$
+^Scripts$
 ^ImageExamples$
+^Heatmap\.R$
+^README_ES\.md$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$

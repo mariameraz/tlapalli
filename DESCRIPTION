@@ -1,6 +1,6 @@
 Package: tlapalli
 Title: Color Palettes Inspired by Mexican Culture
-Version: 0.0.0.9000
+Version: 0.0.1
 Authors@R:
     person("Maria A.", "Torres-Meraz", , "ma.torresmeraz@gmail.com", role = c("aut", "cre"))
 Description: Color palettes inspired by the colors of the culture of Mexico and Mesoamerica. All

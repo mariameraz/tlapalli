@@ -2,11 +2,15 @@
 
 <p align="center"><em>In tlilli, in tlapalli</em> </p>
 
+Disponible en: [![Spanish](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-pink)](https://github.com/mariameraz/tlapalli/blob/main/README_ES.md)
+
+<br>
+
 <img src="Logo/Rtlapalli.png" align="left" width="200" hspace="30" alt="Tlapalli logo">
 
 <p align="justify">
 <br><br>
-R color palettes inspired by elements of Mexican and Mesoamerican culture. This is a small personal project, so for now it is only available to install from GitHub. The package currently has 27 palettes, available as both discrete and continuous scales, and I hope be adding more over time. Suggestions are welcome and appreciated (҂◡_◡) ᕤ!
+R color palettes inspired by elements of Mexican and Mesoamerican culture. This is a small personal project, so for now it is only available to install from GitHub. The package currently has 27 palettes, available as both discrete and continuous scales, and I hope be adding more over time. Suggestions are welcome and appreciated (҂◡_◡) ᕤ !
 </p>
 
 <br clear="left">
@@ -23,13 +27,13 @@ remotes::install_github("mariameraz/tlapalli")
 ## ☆ Continuous
 
 <p align="center">
-  <img src="ImageExamples/continuous.png" width="80%">
+  <img src="ImageExamples/continuous.png" width="55%">
 </p>
 
 ## ☆ Discrete
 
 <p align="center">
-  <img src="ImageExamples/categorical.png" width="80%">
+  <img src="ImageExamples/categorical.png" width="55%">
 </p>
 
 ## Example
@@ -56,7 +60,9 @@ ggplot(faithfuld, aes(waiting, eruptions, fill = density)) +
    theme_minimal()
 ```
 
-<img src="ImageExamples/example1.png" align="center" width="400" hspace="30" alt="Tlapalli logo">
+<p align="center">
+  <img src="ImageExamples/example1.png" width="400" alt="Ejemplo de paleta de tlapalli">
+</p>
 
 
 ```r
@@ -66,29 +72,38 @@ ggplot(mpg, aes(class, fill = class)) +
   scale_fill_tlapalli_d("Quetzal") +
   theme_bw()
 ```
-<img src="ImageExamples/example2.png" align="center" width="400" hspace="30" alt="Tlapalli logo">
+<p align="center">
+  <img src="ImageExamples/example2.png" width="400" alt="Ejemplo de paleta de tlapalli">
+</p>
 
 ```r
 # Discrete palette in base R
 barplot(1:6, col = tlapalli_pal("PacificoSuave"))
 ```
-<img src="ImageExamples/example3.png" align="center" width="400" hspace="30" alt="Tlapalli logo">
+<p align="center">
+  <img src="ImageExamples/example3.png" width="400" alt="Ejemplo de paleta de tlapalli">
+</p>
 
 ```r
 # Continuous palette in base R
 image(volcano, col = tlapalli_pal("Ambar", n = 100, type = "continuous"))
 ```
-<img src="ImageExamples/example4.png" align="center" width="400" hspace="30" alt="Tlapalli logo">
-
+<p align="center">
+  <img src="ImageExamples/example4.png" width="400" alt="Ejemplo de paleta de tlapalli">
+</p>
 
 ```r
 # Show color palettes
 tlapalli_show("Venado8", background = "black")
 ```
-<img src="ImageExamples/example5.png" align="center" width="400" hspace="30" alt="Tlapalli logo">
+<p align="center">
+  <img src="ImageExamples/example5.png" width="400" alt="Ejemplo de paleta de tlapalli">
+</p>
 
 ```r
 tlapalli_show("Altata", n = 100, type = "continuous", background = "both")
 ```
 
-<img src="ImageExamples/example6.png" align="center" width="400" hspace="30" alt="Tlapalli logo">
+<p align="center">
+  <img src="ImageExamples/example6.png" width="400" alt="Ejemplo de paleta de tlapalli">
+</p>

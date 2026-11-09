@@ -5,101 +5,84 @@ title: "Gallery"
 Colors, color vision simulations, and inspiration for each palette.
 
 ## Alicante
-
 ![](../reference/figures/Alicante.png){width=100%}
-
 ![](https://static.inaturalist.org/photos/25905802/medium.jpg){.inspiration}
 
 <div class="photo-credit">
-
-Photo: Saúl Guerrero / <a href="https://www.inaturalist.org/photos/25905802">Transvolcanic Alligator Lizard (Barisia imbricata), iNaturalist</a>
-
+Photo: Saúl Guerrero / <a href="https://www.inaturalist.org/photos/25905802">Transvolcanic Alligator Lizard (<em>Barisia imbricata</em>), iNaturalist</a>
 </div>
 
 ## Altata
 
 ![](../reference/figures/Altata.png){width=100%}
-
 ![](https://www.sinaloa360.com/wp-content/uploads/2020/03/altata-12.jpg){.inspiration}
 
 <div class="photo-credit">
-
 Photo: Miguel Angel Victoria / <a href="https://www.sinaloa360.com/discovering-altata-a-virtual-walk-through-this-coastal-paradise/">Sinaloa 360</a>
-
 </div>
 
 ## Ambar
 
 ![](../reference/figures/Ambar.png){width=100%}
-
 ![](https://mr.travelbymexico.com/imgBase/2019/04/ambar1.jpg){.inspiration}
 
 <div class="photo-credit">
-
 Photo: Museo del Ámbar: San Cristobal de Las Casas / <a href="https://mr.travelbymexico.com/5062-museo-del-ambar/">México Real</a>
-
 </div>
 
 ## Atlas / Atlas2
 
 ![](../reference/figures/Atlas.png){width=100%}
-
 ![](../reference/figures/Atlas2.png){width=100%}
-
 ![](https://historico.conaliteg.gob.mx/c/H1993P4GE197/000.jpg){.inspiration}
 
 <div class="photo-credit">
-
 Photo: Atlas de México Grado 4° Generación 1993 / <a href="https://historico.conaliteg.gob.mx/H1993P4GE197.htm">Secretaría de Educación Pública; Illustration: Rufino Tamayo</a>
-
 </div>
 
 ## CartaBlanca
 
 ![](../reference/figures/CartaBlanca.png){width=100%}
-
 ![](https://cdn.cookielaw.org/logos/00afdec3-358f-4f2d-8b63-0c71e6f49172/01930180-e7e8-7109-8551-2bdb0c24344e/c1719755-0a77-43cb-ac89-80c4ade8bfc6/cartablanca.png){.inspiration}
 
 <div class="photo-credit">
-
 Photo: <a href="https://www.cartablanca.com.mx/">Cervecería Carta Blanca</a>
-
 </div>
 
 ## Cempasuchil
 
 ![](../reference/figures/Cempasuchil.png){width=100%}
-
 ![](https://laderasur.com/wp-content/uploads/2025/10/fernando-paleta.jpg){.inspiration}
 
 <div class="photo-credit">
-
 Photo: Fernando Paleta / <a href="https://laderasur.com/articulo/mexico-conociendo-a-cempasuchil-la-flor-del-dia-de-los-muertos/">"Conociendo a cempasúchil, la flor del Día de los Muertos", Ladera Sur</a>
+</div>
 
+## Coqueta
+
+![](../reference/figures/Coqueta.png){width=100%}
+![](https://abcbirds.org/wp-content/uploads/2026/09/DSC3253-Short-crested-Coquette-male_Anthony-Lujan-819x1024.webp){.inspiration}
+
+<div class="photo-credit">
+Photo: Anthony Lujan, Short-crested Coquette male / <a href="https://abcbirds.org/birds/resplendent-quetzal/">Coqueta de cresta corta (<em>Lophornis brachylophus</em>), American Bird Conservancy</a>
 </div>
 
 ## Conchas
 
 ![](../reference/figures/Conchas.png){width=100%}
-
 ![](https://content.jwplatform.com/thumbs/ZH3SxW8A-720.jpg){.inspiration}
 
 <div class="photo-credit">
-
 Photo: Maricruz Ávalos F. / <a href="https://www.maricruzavalos.com/conchas-pan-dulce/">"Conchas Pan Dulce", Maricruz Ávalos</a>
-
 </div>
 
 ## DiaDeMuertos
 
 ![](../reference/figures/DiaDeMuertos.png){width=100%}
-
 ![](https://laderasur.com/wp-content/uploads/2025/10/chris-luengas.jpg){.inspiration}
 
 <div class="photo-credit">
-
 Photo: Chris Luengas / <a href="https://laderasur.com/articulo/mexico-conociendo-a-cempasuchil-la-flor-del-dia-de-los-muertos/">"Conociendo a cempasúchil, la flor del Día de los Muertos", Ladera Sur</a>
-
 </div>
 
 ## Duvalin
@@ -107,163 +90,122 @@ Photo: Chris Luengas / <a href="https://laderasur.com/articulo/mexico-conociendo
 ![](../reference/figures/Duvalin.png){width=100%}
 
 <div class="photo-credit">
-
 Duvalin, Ricolino
-
 </div>
 
 ## Jade
 
 ![](../reference/figures/Jade.png){width=100%}
-
 ![](https://arqueologiamexicana.mx/sites/default/files/styles/arq1200x600/public/ridinger_am27_1.jpg?itok=xW2xnMaQ){.inspiration}
 
 <div class="photo-credit">
-
 Máscara de murciélago y placa de jade / <a href="https://arqueologiamexicana.mx/mexico-antiguo/el-jade">Arqueología Mexicana</a>
-
 </div>
 
 ## LosTemerarios
 
 ![](../reference/figures/LosTemerarios.png){width=100%}
-
 ![](https://images.seeklogo.com/logo-png/50/1/los-temerarios-logo-png_seeklogo-500476.png){.inspiration}
 
 <div class="photo-credit">
-
 Los Temerarios logo / Adolfo Ángel Alba, 1983
-
 </div>
 
 ## LosTemerarios2
 
 ![](../reference/figures/LosTemerarios2.png){width=100%}
-
 ![](https://i.scdn.co/image/ab67616d0000b273c0dc05e2947081840e461e69){.inspiration}
 
 <div class="photo-credit">
-
 Album cover: <em>Tu Última Canción</em>, Los Temerarios (Disa, 1993)
-
 </div>
 
 ## Mazatlan
 
 ![](../reference/figures/Mazatlan.png){width=100%}
-
 ![](https://mazatlanvisit.com/photos/mazatlan-01103-malecon-monument.jpg){.inspiration}
 
 <div class="photo-credit">
-
 Avenida del Mar's Monument / <a href="https://mazatlanvisit.com/mazatlan-malecon.html">Walking the Malecón by <em>MazatlanVisit</em></a>
-
 </div>
 
 ## Obsidiana
 
 ![](../reference/figures/Obsidiana.png){width=100%}
-
 ![](https://arqueologiamexicana.mx/sites/default/files/styles/arq1200x600/public/am198-01-portada.jpg?itok=s79WC1ps){.inspiration}
 
 <div class="photo-credit">
-
 Los colores de la obsidiana en Mesoamérica / <a href="https://arqueologiamexicana.mx/mexico-antiguo/los-colores-de-la-obsidiana-en-mesoamerica">Arqueología Mexicana</a>
-
 </div>
 
 ## Ofrenda
 
 ![](../reference/figures/Ofrenda.png){width=100%}
-
 ![](https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Saturnino_Herr%C3%A1n_-_The_offering_-_Google_Art_Project.jpg/1920px-Saturnino_Herr%C3%A1n_-_The_offering_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20121001063858){.inspiration}
 
 <div class="photo-credit">
-
 La ofrenda / Saturnino Herrán, 1913. <a href="https://commons.wikimedia.org/wiki/File:Saturnino_Herr%C3%A1n_-_The_offering_-_Google_Art_Project.jpg">Museo Nacional de Arte</a>, Public domain, via Wikimedia Commons
-
 </div>
 
 ## PacificoClara
 
 ![](../reference/figures/PacificoClara.png){width=100%}
-
 ![](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cerveza_Pacifico.jpg/960px-Cerveza_Pacifico.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20080412125915){.inspiration}
 
 <div class="photo-credit">
-
 Cerveza Pacífico Clara / <a href="https://commons.wikimedia.org/wiki/File:Cerveza_Pacifico.jpg">Kjetil2006</a>, Public domain, via Wikimedia Commons
-
 </div>
 
 ## PacificoLight
 
 ![](../reference/figures/PacificoLight.png){width=100%}
-
 ![](https://pintplease.s3.eu-west-1.amazonaws.com/post/original/post_6053906-171651280.jpeg){.inspiration}
 
 <div class="photo-credit">
-
 Cerveza Pacífico Light by Cervecería Pacífico
-
 </div>
 
 ## PacificoSuave
 
 ![](../reference/figures/PacificoSuave.png){width=100%}
-
 ![](https://pintplease.s3.eu-west-1.amazonaws.com/post/original/post_7914229-260799008.jpeg){.inspiration}
 
 <div class="photo-credit">
-
 Cerveza Pacífico Suave by Cervecería Pacífico
-
 </div>
 
 ## Quetzal
 
 ![](../reference/figures/Quetzal.png){width=100%}
-
 ![](https://abcbirds.org/wp-content/uploads/2025/08/Resplendent-Quetzal.-Ondrej-Prosicky-SS-min-2048x1365.webp){.inspiration}
 
 <div class="photo-credit">
-
 Photo: Ondrej Prosicky, Shutterstock / <a href="https://abcbirds.org/birds/resplendent-quetzal/">Resplendent Quetzals, American Bird Conservancy</a>
-
 </div>
 
 ## Tecate
 
 ![](../reference/figures/Tecate.png){width=100%}
-
 ![](https://imgs.search.brave.com/DRt05Ga8CGTYjV9CT7CqPYROH3v6lZN302WwkyNta-M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/cGhjZW50cmFsLmF6/dXJlZWRnZS5uZXQv/dGVjYXRlLWZ1bGxz/aXRlL2hvbWUvVGVj/YXRlLW9yaWdpbmFs/LndlYnA){.inspiration}
 
 <div class="photo-credit">
-
 Cerveza Tecate Original by Cervecería Tecate
-
 </div>
 
 ## Valle
 
 ![](../reference/figures/Valle.png){width=100%}
-
 ![](https://www.imer.mx/micrositios/wp-content/uploads/sites/49/microsit_jose_ma_velasco_01_valle_de_mexico_munal.jpg){.inspiration}
 
 <div class="photo-credit">
-
 El valle de México / <a href="https://www.imer.mx/micrositios/jose-maria-velasco/">José María Velasco</a>
-
 </div>
 
 ## Venado8
 
 ![](../reference/figures/Venado8.png){width=100%}
-
 ![](https://arqueologiamexicana.mx/sites/default/files/styles/arq1200x600/public/suvida_ame97_1.jpg?itok=FxGis3EA){.inspiration}
 
 <div class="photo-credit">
-
 Primeras guerras de 8 Venado en el año 1071 / <a href="https://arqueologiamexicana.mx/mexico-antiguo/la-ninez-y-la-juventud-de-8-venado">Códice Nutall, lám. 43, Antropología Mexicana</a>
-
 </div>

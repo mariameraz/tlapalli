@@ -1,0 +1,30 @@
+url: https://mariameraz.github.io/tlapalli/
+template:
+  bootstrap: 5
+  bootswatch: flatly
+  light-switch: yes
+  theme: gruvbox-light
+  theme-dark: gruvbox-dark
+  bslib:
+    primary: '#69aa9f'
+    border-radius: 0.5rem
+    pkgdown-nav-height: 80px
+articles:
+- title: internal
+  contents: articles/palettes
+navbar:
+  structure:
+    left:
+    - intro
+    - reference
+    - palettes
+    - news
+    right:
+    - search
+    - github
+    - lightswitch
+  components:
+    palettes:
+      text: Palettes
+      href: articles/palettes.html
+

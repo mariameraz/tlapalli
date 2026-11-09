@@ -71,9 +71,9 @@ scale_fill_tlapalli_c <- function(name, direction = 1, ...) {
 #' @examples
 #' library(ggplot2)
 #'
-#' ggplot(faithfuld, aes(waiting, eruptions, colour = density)) +
+#' ggplot(mtcars, aes(wt, mpg, colour = hp)) +
 #'   geom_point(size = 3) +
-#'   scale_colour_tlapalli_c("Ofrenda")
+#'   scale_colour_tlapalli_c("Ambar")
 #'
 #' @export
 scale_colour_tlapalli_c <- function(name, direction = 1, ...) {

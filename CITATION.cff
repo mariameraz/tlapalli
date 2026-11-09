@@ -16,12 +16,25 @@ authors:
 - family-names: Torres-Meraz
   given-names: Maria A.
   email: ma.torresmeraz@gmail.com
+  orcid: https://orcid.org/0009-0003-5548-5201
+- family-names: Lopez-Moreno
+  given-names: Hector
+  email: hectorlpzmno@gmail.com
+  orcid: https://orcid.org/0009-0002-3223-447X
 repository-code: https://github.com/mariameraz/tlapalli
-url: https://github.com/mariameraz/tlapalli
+url: https://mariameraz.github.io/tlapalli/
 contact:
 - family-names: Torres-Meraz
   given-names: Maria A.
   email: ma.torresmeraz@gmail.com
+  orcid: https://orcid.org/0009-0003-5548-5201
+keywords:
+- color
+- color-palette
+- ggplot2
+- plot
+- plotting
+- visualization
 references:
 - type: software
   title: colorspace

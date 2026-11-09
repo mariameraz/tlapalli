@@ -1,8 +1,16 @@
 Package: tlapalli
 Title: R color palettes inspired by elements of Mexican and Mesoamerican culture
 Version: 0.0.1
-Authors@R:
-    person("Maria A.", "Torres-Meraz", , "ma.torresmeraz@gmail.com", role = c("aut", "cre"))
+Authors@R: c(
+    person("Maria A.", "Torres-Meraz", 
+           email = "ma.torresmeraz@gmail.com",
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0003-5548-5201")),
+    person("Hector", "Lopez-Moreno", 
+           email = "hectorlpzmno@gmail.com",
+           role = "aut",
+           comment = c(ORCID = "0009-0002-3223-447X"))
+  )
 Description: Color palettes inspired by the colors of the culture of Mexico and Mesoamerica. All
     palettes are distinguishable for people with color vision deficiencies.
 License: MIT + file LICENSE

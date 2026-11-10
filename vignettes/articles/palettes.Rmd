@@ -2,7 +2,11 @@
 title: "Gallery"
 ---
 
-Colors, color vision simulations, and inspiration for each palette.
+Colors, color vision simulations, and inspiration for each palette are here.
+
+_We tried to stay close to the original inspiration, but sometimes the tones differ a bit,
+because we played with brightness and intensity to help the palettes work better under
+different viewing conditions._
 
 ## Alicante
 ![](../reference/figures/Alicante.png){width=100%}
@@ -30,14 +34,23 @@ Photo: Miguel Angel Victoria / <a href="https://www.sinaloa360.com/discovering-a
 Photo: Museo del Ámbar: San Cristobal de Las Casas / <a href="https://mr.travelbymexico.com/5062-museo-del-ambar/">México Real</a>
 </div>
 
-## Atlas / Atlas2
+## Atlas
 
 ![](../reference/figures/Atlas.png){width=100%}
-![](../reference/figures/Atlas2.png){width=100%}
 ![](https://historico.conaliteg.gob.mx/c/H1993P4GE197/000.jpg){.inspiration}
 
 <div class="photo-credit">
 Photo: Atlas de México Grado 4° Generación 1993 / <a href="https://historico.conaliteg.gob.mx/H1993P4GE197.htm">Secretaría de Educación Pública; Illustration: Rufino Tamayo</a>
+</div>
+
+
+## Azulillo
+
+![](../reference/figures/Azulillo.png){width=100%}
+![](https://cdn.download.ams.birds.cornell.edu/api/v1/asset/616212860/640){.inspiration}
+
+<div class="photo-credit">
+Photo: Dubi Saphiro / <a href="https://historico.conaliteg.gob.mx/H1993P4GE197.htm">Azulillo ventrirrosado <em>(Passerina rositae)</em>, eBird</a>
 </div>
 
 ## CartaBlanca
@@ -76,6 +89,16 @@ Photo: Anthony Lujan, Short-crested Coquette male / <a href="https://abcbirds.or
 Photo: Maricruz Ávalos F. / <a href="https://www.maricruzavalos.com/conchas-pan-dulce/">"Conchas Pan Dulce", Maricruz Ávalos</a>
 </div>
 
+## Culiacan
+
+![](../reference/figures/Culiacan.png){width=100%}
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCp-xtN9mqEQXuZVxVbBnDYsv0OEyBErq8qz63alsB1VQpfjymL9xgZ-c&s=10){.inspiration}
+
+<div class="photo-credit">
+Photo: Atardecer en Sinaloa, <a href="https://www.instagram.com/p/C2LYgZURa1d/">Gobierno del Estado</a>
+</div>
+
+
 ## DiaDeMuertos
 
 ![](../reference/figures/DiaDeMuertos.png){width=100%}
@@ -85,13 +108,6 @@ Photo: Maricruz Ávalos F. / <a href="https://www.maricruzavalos.com/conchas-pan
 Photo: Chris Luengas / <a href="https://laderasur.com/articulo/mexico-conociendo-a-cempasuchil-la-flor-del-dia-de-los-muertos/">"Conociendo a cempasúchil, la flor del Día de los Muertos", Ladera Sur</a>
 </div>
 
-## Duvalin
-
-![](../reference/figures/Duvalin.png){width=100%}
-
-<div class="photo-credit">
-Duvalin, Ricolino
-</div>
 
 ## Jade
 
@@ -120,13 +136,13 @@ Los Temerarios logo / Adolfo Ángel Alba, 1983
 Album cover: <em>Tu Última Canción</em>, Los Temerarios (Disa, 1993)
 </div>
 
-## Mazatlan
+## Momoto
 
-![](../reference/figures/Mazatlan.png){width=100%}
-![](https://mazatlanvisit.com/photos/mazatlan-01103-malecon-monument.jpg){.inspiration}
+![](../reference/figures/Momoto.png){width=100%}
+![](https://cdn.download.ams.birds.cornell.edu/api/v1/asset/42524781/2400){.inspiration}
 
 <div class="photo-credit">
-Avenida del Mar's Monument / <a href="https://mazatlanvisit.com/mazatlan-malecon.html">Walking the Malecón by <em>MazatlanVisit</em></a>
+Photo: Alan Van Norman / <a href="https://ebird.org/species/rucmot1?continue">Momoto Mexicano (<em>Momotus mexicanus</em>), eBird</a>
 </div>
 
 ## Obsidiana

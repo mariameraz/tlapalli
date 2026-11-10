@@ -56,7 +56,7 @@ tlapalli_pal <- function(name, n = NULL, type = c("discrete", "continuous"),
 #'
 #' ggplot(faithfuld, aes(waiting, eruptions, fill = density)) +
 #'   geom_tile() +
-#'   scale_fill_tlapalli_c("Atlas2")
+#'   scale_fill_tlapalli_c("Azulillo")
 #'
 #' @export
 scale_fill_tlapalli_c <- function(name, direction = 1, ...) {
@@ -107,7 +107,7 @@ scale_fill_tlapalli_d <- function(name, direction = 1, ...) {
 #'
 #' ggplot(mpg, aes(displ, hwy, colour = class)) +
 #'   geom_point() +
-#'   scale_colour_tlapalli_d("Ofrenda")
+#'   scale_colour_tlapalli_d("Valle")
 #'
 #' @export
 scale_colour_tlapalli_d <- function(name, direction = 1, ...) {

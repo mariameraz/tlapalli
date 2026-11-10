@@ -22,7 +22,7 @@ knitr::knit_hooks$set(plot = function(x, options) {
 
 <h1 align="center"><strong>&#123; Tlapalli &#125;</strong></h1>
 
-<p align="center"><em>In tlilli, in tlapalli</em> </p>
+<h4 align="center"><em>In tlilli, in tlapalli</em></h4>
 
 Available in: [![English](https://img.shields.io/badge/Language-English-purple)](https://github.com/mariameraz/tlapalli/blob/main/README.md)
 
@@ -76,12 +76,20 @@ tlapalli_pal("Ambar")
 tlapalli_pal("Ambar", n = 10, type = "continuous")
 ```
 
+```{r example5, fig.align="center", out.width="400px"}
+# Mostrar paletas de colores en fondo negro
+tlapalli_show("Venado8", background = "black")
+```
+
+```{r example6, fig.align="center", out.width="400px"}
+tlapalli_show("Altata", n = 100, type = "continuous", background = "both")
+```
 
 ```{r example1, fig.align="center", out.width="400px"}
 # Escala continua en ggplot2
 ggplot(faithfuld, aes(waiting, eruptions, fill = density)) +
    geom_tile() +
-   scale_fill_tlapalli_c("Atlas2") +
+   scale_fill_tlapalli_c("Azulillo") +
    theme_minimal()
 ```
 
@@ -105,15 +113,3 @@ barplot(1:6, col = tlapalli_pal("PacificoSuave"))
 # Paleta continua en R base
 image(volcano, col = tlapalli_pal("Ambar", n = 100, type = "continuous"))
 ```
-
-
-```{r example5, fig.align="center", out.width="400px"}
-# Mostrar paletas de colores en fondo negro
-tlapalli_show("Venado8", background = "black")
-```
-
-
-```{r example6, fig.align="center", out.width="400px"}
-tlapalli_show("Altata", n = 100, type = "continuous", background = "both")
-```
-

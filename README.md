@@ -4,10 +4,10 @@
 <strong>{ Tlapalli }</strong>
 </h1>
 
-<p align="center">
+<h4 align="center">
 
 <em>In tlilli, in tlapalli</em>
-</p>
+</h4>
 
 Disponible en:
 [![Spanish](https://img.shields.io/badge/Idioma-Espa%C3%B1ol-pink)](https://github.com/mariameraz/tlapalli/blob/main/README_ES.md)
@@ -61,29 +61,48 @@ library(ggplot2)
 
 # List available palettes
 names(tlapalli)
-#>  [1] "Altata"         "DiaDeMuertos"   "LosTemerarios"  "Atlas"         
-#>  [5] "Duvalin"        "Tecate"         "LosTemerarios2" "Alicante"      
-#>  [9] "Jade"           "Obsidiana"      "Ambar"          "Cempasuchil"   
-#> [13] "Mazatlan"       "Atlas2"         "CartaBlanca"    "PacificoClara" 
+#>  [1] "DiaDeMuertos"   "LosTemerarios"  "Altata"         "Culiacan"      
+#>  [5] "Atlas"          "Momoto"         "Tecate"         "LosTemerarios2"
+#>  [9] "Alicante"       "Jade"           "Obsidiana"      "Ambar"         
+#> [13] "Cempasuchil"    "Azulillo"       "CartaBlanca"    "PacificoClara" 
 #> [17] "PacificoLight"  "PacificoSuave"  "Conchas"        "Venado8"       
 #> [21] "Coqueta"        "Quetzal"        "Ofrenda"        "Cosecha"       
 #> [25] "Valle"
 
 # Get the colors of a palette
 tlapalli_pal("Ambar")
-#> [1] "#06291f" "#7d3a26" "#c95d39" "#ccad46" "#dce9dd"
+#> [1] "#211b08" "#6b3b06" "#a16d07" "#c5b82d" "#c8e8da"
 
 # Interpolate colors to get a palette with 10 colors
 tlapalli_pal("Ambar", n = 10, type = "continuous")
-#>  [1] "#06281F" "#413322" "#703925" "#95452C" "#B75434" "#CA703B" "#CC9341"
-#>  [8] "#CFB357" "#D9CD9A" "#DCE9DD"
+#>  [1] "#201A07" "#402909" "#623707" "#7C4B06" "#946107" "#A97D10" "#B99E20"
+#>  [8] "#C7BD45" "#CCD291" "#C7E7D9"
 ```
+
+``` r
+# Show color palettes
+tlapalli_show("Venado8", background = "black")
+```
+
+<p align="center">
+
+<img src="man/figures/README-example5-1.png" width="400" alt="">
+</p>
+
+``` r
+tlapalli_show("Altata", n = 100, type = "continuous", background = "both")
+```
+
+<p align="center">
+
+<img src="man/figures/README-example6-1.png" width="400" alt="">
+</p>
 
 ``` r
 # Continuous scale in ggplot2
 ggplot(faithfuld, aes(waiting, eruptions, fill = density)) +
    geom_tile() +
-   scale_fill_tlapalli_c("Atlas2") +
+   scale_fill_tlapalli_c("Azulillo") +
    theme_minimal()
 ```
 
@@ -123,23 +142,4 @@ image(volcano, col = tlapalli_pal("Ambar", n = 100, type = "continuous"))
 <p align="center">
 
 <img src="man/figures/README-example4-1.png" width="400" alt="">
-</p>
-
-``` r
-# Show color palettes
-tlapalli_show("Venado8", background = "black")
-```
-
-<p align="center">
-
-<img src="man/figures/README-example5-1.png" width="400" alt="">
-</p>
-
-``` r
-tlapalli_show("Altata", n = 100, type = "continuous", background = "both")
-```
-
-<p align="center">
-
-<img src="man/figures/README-example6-1.png" width="400" alt="">
 </p>

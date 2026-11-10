@@ -1,6 +1,11 @@
 # Gallery
 
-Colors, color vision simulations, and inspiration for each palette.
+Colors, color vision simulations, and inspiration for each palette are
+here.
+
+*We tried to stay close to the original inspiration, but sometimes the
+tones differ a bit, because we played with brightness and intensity to
+help the palettes work better under different viewing conditions.*
 
 ## Alicante
 
@@ -23,13 +28,20 @@ Photo: Miguel Angel Victoria / [Sinaloa
 Photo: Museo del Ámbar: San Cristobal de Las Casas / [México
 Real](https://mr.travelbymexico.com/5062-museo-del-ambar/)
 
-## Atlas / Atlas2
+## Atlas
 
-![](../reference/figures/Atlas.png)![](../reference/figures/Atlas2.png)![](https://historico.conaliteg.gob.mx/c/H1993P4GE197/000.jpg)
+![](../reference/figures/Atlas.png)![](https://historico.conaliteg.gob.mx/c/H1993P4GE197/000.jpg)
 
 Photo: Atlas de México Grado 4° Generación 1993 / [Secretaría de
 Educación Pública; Illustration: Rufino
 Tamayo](https://historico.conaliteg.gob.mx/H1993P4GE197.htm)
+
+## Azulillo
+
+![](../reference/figures/Azulillo.png)![](https://cdn.download.ams.birds.cornell.edu/api/v1/asset/616212860/640)
+
+Photo: Dubi Saphiro / [Azulillo ventrirrosado *(Passerina rositae)*,
+eBird](https://historico.conaliteg.gob.mx/H1993P4GE197.htm)
 
 ## CartaBlanca
 
@@ -60,6 +72,13 @@ Conservancy](https://abcbirds.org/birds/resplendent-quetzal/)
 Photo: Maricruz Ávalos F. / [“Conchas Pan Dulce”, Maricruz
 Ávalos](https://www.maricruzavalos.com/conchas-pan-dulce/)
 
+## Culiacan
+
+![](../reference/figures/Culiacan.png)![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCp-xtN9mqEQXuZVxVbBnDYsv0OEyBErq8qz63alsB1VQpfjymL9xgZ-c&s=10)
+
+Photo: Atardecer en Sinaloa, [Gobierno del
+Estado](https://www.instagram.com/p/C2LYgZURa1d/)
+
 ## DiaDeMuertos
 
 ![](../reference/figures/DiaDeMuertos.png)![](https://laderasur.com/wp-content/uploads/2025/10/chris-luengas.jpg)
@@ -67,12 +86,6 @@ Photo: Maricruz Ávalos F. / [“Conchas Pan Dulce”, Maricruz
 Photo: Chris Luengas / [“Conociendo a cempasúchil, la flor del Día de
 los Muertos”, Ladera
 Sur](https://laderasur.com/articulo/mexico-conociendo-a-cempasuchil-la-flor-del-dia-de-los-muertos/)
-
-## Duvalin
-
-![](../reference/figures/Duvalin.png)
-
-Duvalin, Ricolino
 
 ## Jade
 
@@ -93,12 +106,12 @@ Los Temerarios logo / Adolfo Ángel Alba, 1983
 
 Album cover: *Tu Última Canción*, Los Temerarios (Disa, 1993)
 
-## Mazatlan
+## Momoto
 
-![](../reference/figures/Mazatlan.png)![](https://mazatlanvisit.com/photos/mazatlan-01103-malecon-monument.jpg)
+![](../reference/figures/Momoto.png)![](https://cdn.download.ams.birds.cornell.edu/api/v1/asset/42524781/2400)
 
-Avenida del Mar’s Monument / [Walking the Malecón by
-*MazatlanVisit*](https://mazatlanvisit.com/mazatlan-malecon.html)
+Photo: Alan Van Norman / [Momoto Mexicano (*Momotus mexicanus*),
+eBird](https://ebird.org/species/rucmot1?continue)
 
 ## Obsidiana
 

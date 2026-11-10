@@ -17,13 +17,13 @@ A named list with one element per palette.
 
 ``` r
 names(tlapalli)
-#>  [1] "Altata"         "DiaDeMuertos"   "LosTemerarios"  "Atlas"         
-#>  [5] "Duvalin"        "Tecate"         "LosTemerarios2" "Alicante"      
-#>  [9] "Jade"           "Obsidiana"      "Ambar"          "Cempasuchil"   
-#> [13] "Mazatlan"       "Atlas2"         "CartaBlanca"    "PacificoClara" 
+#>  [1] "DiaDeMuertos"   "LosTemerarios"  "Altata"         "Culiacan"      
+#>  [5] "Atlas"          "Momoto"         "Tecate"         "LosTemerarios2"
+#>  [9] "Alicante"       "Jade"           "Obsidiana"      "Ambar"         
+#> [13] "Cempasuchil"    "Azulillo"       "CartaBlanca"    "PacificoClara" 
 #> [17] "PacificoLight"  "PacificoSuave"  "Conchas"        "Venado8"       
 #> [21] "Coqueta"        "Quetzal"        "Ofrenda"        "Cosecha"       
 #> [25] "Valle"         
 tlapalli$Ambar
-#> [1] "#06291f" "#7d3a26" "#c95d39" "#ccad46" "#dce9dd"
+#> [1] "#211b08" "#6b3b06" "#a16d07" "#c5b82d" "#c8e8da"
 ```

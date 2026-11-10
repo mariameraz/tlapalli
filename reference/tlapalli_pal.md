@@ -37,11 +37,11 @@ A character vector of hex colors.
 
 ``` r
 tlapalli_pal("Ambar")
-#> [1] "#06291f" "#7d3a26" "#c95d39" "#ccad46" "#dce9dd"
+#> [1] "#211b08" "#6b3b06" "#a16d07" "#c5b82d" "#c8e8da"
 tlapalli_pal("Ambar", n = 20, type = "continuous")
-#>  [1] "#06281F" "#262E20" "#3E3222" "#553623" "#6B3824" "#803B26" "#90422A"
-#>  [8] "#A04A2E" "#B05132" "#C05936" "#C9663A" "#CB773D" "#CC883F" "#CC9942"
-#> [15] "#CCA945" "#D0B65F" "#D6C27E" "#D9CF9D" "#DBDBBD" "#DCE9DD"
+#>  [1] "#201A07" "#2F2109" "#3E2809" "#4E2F09" "#5E3507" "#6D3D06" "#784706"
+#>  [8] "#845206" "#8F5C07" "#9B6707" "#A5740B" "#AC8413" "#B4941B" "#BCA323"
+#> [15] "#C3B32B" "#C8BF4D" "#CBC972" "#CCD395" "#CBDDB7" "#C7E7D9"
 tlapalli_pal("Ambar", direction = -1)
-#> [1] "#dce9dd" "#ccad46" "#c95d39" "#7d3a26" "#06291f"
+#> [1] "#c8e8da" "#c5b82d" "#a16d07" "#6b3b06" "#211b08"
 ```

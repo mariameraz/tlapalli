@@ -31,6 +31,6 @@ library(ggplot2)
 
 ggplot(faithfuld, aes(waiting, eruptions, fill = density)) +
   geom_tile() +
-  scale_fill_tlapalli_c("Atlas2")
+  scale_fill_tlapalli_c("Azulillo")
 
 ```

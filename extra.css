@@ -13,8 +13,16 @@
 }
 
 .inspiration {
-  max-width: 500px;
-  max-height: 500px;
+  display: block;
   width: auto;
   height: auto;
+  max-width: min(100%, 500px);
+  max-height: 500px;
+}
+
+@media (max-width: 500px) {
+  .inspiration {
+    max-width: min(100%, 300px);
+    max-height: 300px;
+  }
 }
